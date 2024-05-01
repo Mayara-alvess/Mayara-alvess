@@ -25,7 +25,7 @@
 
 
   
-  ## **Contato**
+  ### **Contato**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/mayara-alves-b18483186)
 
@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayara-alves&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Contribuições no GitHub 
+### Contribuições no GitHub 
 
 [![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
 
