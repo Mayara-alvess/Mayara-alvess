@@ -1,6 +1,6 @@
  ## 👋 Olá, sou a Mayara 
   
-- Atualmente estou focada em projetos para aprimoramento de processos e visualização de dados.
+- Atualmente estou focadaA em projetos para aprimoramento de processos e visualização de dados.
 - Sou umaa entusiasta da tecnologia e estou sempre buscando novas formas de aprendizado e desenvolvimento.
 
 
