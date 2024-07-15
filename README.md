@@ -1,13 +1,23 @@
- ## 👋 Olá, sou a Mayara 
+ # Olá, sou a Mayara 👋 
+
+ ## ✨ Sobre Mim
   
 - Atualmente estou focada em projetos para aprimoramento de processos e visualização de dados.
+  
 - Sou umaa entusiasta da tecnologia e estou sempre buscando novas formas de aprendizado e desenvolvimento.
+  
+ ## 💡 Projetos
+  
+- [Segmentação de clientes](https://github.com/Mayara-alvess/01projeto.segmentacao_rfm) Aplicar segmentação de clientes por meio do método RFM.
+  
+- [Validação de hípotese](https://github.com/Mayara-alvess/02.Projeto-hipotese): Validar as hipóteses através da análise de dados e fornecer recomendações estratégicas com base nas descobertas e tomar decisões informadas que aumentem as chances de alcançar o “sucesso”.
+- [Risco relativo](https://github.com/Mayara-alvess/03.Projeto.risco_relativo): Automatizar e aprimorar a análise de crédito por meio de técnicas avançadas de análise de dados, com o intuito de aumentar a precisão na avaliação do risco de crédito.
 
 
 
   
 
- ### Linguagens e Ferramentas
+ ### 🛠️ Tecnologias & Ferramentas
 
 <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
