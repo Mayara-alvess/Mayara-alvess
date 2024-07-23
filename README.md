@@ -12,7 +12,7 @@
   
 - [Validação de hípotese](https://github.com/Mayara-alvess/02.Projeto-hipotese): Validar as hipóteses através da análise de dados e fornecer recomendações estratégicas com base nas descobertas e tomar decisões informadas que aumentem as chances de alcançar o “sucesso”.
 - [Risco relativo](https://github.com/Mayara-alvess/03.Projeto.risco_relativo): Automatizar e aprimorar a análise de crédito por meio de técnicas avançadas de análise de dados, com o intuito de aumentar a precisão na avaliação do risco de crédito.
-- [Atrasos de Voo](https://github.com/Mayara-alvess/04.Projeto-DataLab): Analisar os fatores que contribuem para os atrasos de voo e desenvolver um modelo preditivo para prever esses atrasos, com o objetivo de fornecer aos usuários uma visualização dos riscos potenciais de atraso em seus voos.
+- [Atrasos de Voos](https://github.com/Mayara-alvess/04.Projeto-DataLab): Analisar os fatores que contribuem para os atrasos de voo e desenvolver um modelo preditivo para prever esses atrasos, com o objetivo de fornecer aos usuários uma visualização dos riscos potenciais de atraso em seus voos.
 
 
   
