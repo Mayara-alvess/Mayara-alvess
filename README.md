@@ -1,6 +1,7 @@
  # Olá, sou a Mayara 👋 
 
  ## ✨ Sobre Mim
+- Analista de Dados
   
 - Atualmente estou focada em projetos para aprimoramento de processos e visualização de dados.
   
